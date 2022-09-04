@@ -27,12 +27,12 @@
       {
         "command": "kaizer.feedPet",
         "category": "Kaizer",
-        "title": "Feed Pet"
+        "title": "Feed Pengu"
       },
       {
         "command": "kaizer.specialMove",
         "category": "Kaizer",
-        "title": "Perform Special Move"
+        "title": "Wave"
       }
     ]
   },
