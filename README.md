@@ -15,3 +15,7 @@ Add a Pet!
 ## Requirements
 
 Uses Node.js (v18.8.0) and npm (8.18.0)
+
+## Authors
+[Elisha Estibeiro](https://github.com/elishaestibeiro)
+[Alvin Philips](https://github.com/polarvoid)
