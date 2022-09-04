@@ -2,6 +2,7 @@
   "name": "kaizer",
   "displayName": "kaizer",
   "license": "MIT",
+  "repository": "https://github.com/polarvoid/kaizer-pets",
   "contributors": ["Elisha Estibeiro", "Alvin Philips"],
   "author": {"name": "Alvin Philips", "email": "alvinphilips257@gmail.com"},
   "description": "A virtual pet to keep you company while coding :)",
